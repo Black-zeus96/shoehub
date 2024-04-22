@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|c:\\users\\black_zeus\\desktop\\newclass\\net\\group-project-images\\design\\shoehub\\shoehub\\confirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:confirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|c:\\users\\black_zeus\\desktop\\newclass\\net\\group-project-images\\design\\shoehub\\shoehub\\confirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:confirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\register.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:register.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{34CAF17A-2E5E-46C3-A535-11ADAF49BAA7}|shoehub.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_BLACK_ZEUS_DESKTOP_NEWCLASS_NET_GROUP_PROJECT_IMAGES_DESIGN_SHOEHUB_SHOEHUB_APP_DATA_SHOEDB.MDF/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Confirmation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Confirmation.aspx.cs",
+              "RelativeDocumentMoniker": "Confirmation.aspx.cs",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Confirmation.aspx.cs",
+              "RelativeToolTip": "Confirmation.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:19:33.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Confirmation.aspx",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Confirmation.aspx",
+              "RelativeDocumentMoniker": "Confirmation.aspx",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Confirmation.aspx",
+              "RelativeToolTip": "Confirmation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T17:07:04.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Cart.aspx",
+              "RelativeDocumentMoniker": "Cart.aspx",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Cart.aspx",
+              "RelativeToolTip": "Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T17:10:50.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T16:06:11.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T15:40:28.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Admin.aspx",
+              "RelativeDocumentMoniker": "Admin.aspx",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Admin.aspx",
+              "RelativeToolTip": "Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T15:31:58.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:18:11.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Register.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Register.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Register.aspx.designer.cs",
+              "RelativeToolTip": "Register.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:02:54.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Register.aspx.cs",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Register.aspx.cs",
+              "RelativeToolTip": "Register.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:57:39.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Register.aspx",
+              "RelativeDocumentMoniker": "Register.aspx",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Register.aspx",
+              "RelativeToolTip": "Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T14:46:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_BLACK_ZEUS_DESKTOP_NEWCLASS_NET_GROUP_PROJECT_IMAGES_DESIGN_SHOEHUB_SHOEHUB_APP_DATA_SHOEDB.MDF/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-17T13:50:23.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Admin.aspx.cs",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Admin.aspx.cs",
+              "RelativeToolTip": "Admin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:21:29.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\Users\\black_zeus\\Desktop\\newClass\\net\\group-project-images\\design\\shoehub\\shoehub\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T11:07:29.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

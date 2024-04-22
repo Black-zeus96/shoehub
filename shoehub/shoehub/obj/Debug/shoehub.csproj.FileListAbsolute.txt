@@ -1,0 +1,219 @@
+C:\Users\black_zeus\source\repos\shoehub\bin\shoehub.dll.config
+C:\Users\black_zeus\source\repos\shoehub\bin\shoehub.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\shoehub.pdb
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\csc.exe
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\csc.exe.config
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\csc.rsp
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\csi.exe
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\csi.exe.config
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\csi.rsp
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.AppContext.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Console.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.IO.Compression.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Net.Http.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Net.Sockets.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.ValueTuple.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\vbc.exe
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\vbc.exe.config
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\vbc.rsp
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\VBCSCompiler.exe
+C:\Users\black_zeus\source\repos\shoehub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\black_zeus\source\repos\shoehub\bin\Antlr3.Runtime.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\Newtonsoft.Json.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\System.Web.Optimization.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\WebGrease.dll
+C:\Users\black_zeus\source\repos\shoehub\bin\System.Web.Optimization.xml
+C:\Users\black_zeus\source\repos\shoehub\bin\Newtonsoft.Json.xml
+C:\Users\black_zeus\source\repos\shoehub\bin\Antlr3.Runtime.pdb
+C:\Users\black_zeus\source\repos\shoehub\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\black_zeus\source\repos\shoehub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\black_zeus\source\repos\shoehub\obj\Debug\shoehub.csproj.AssemblyReference.cache
+C:\Users\black_zeus\source\repos\shoehub\obj\Debug\shoehub.csproj.CoreCompileInputs.cache
+C:\Users\black_zeus\source\repos\shoehub\obj\Debug\shoehub.csproj.Up2Date
+C:\Users\black_zeus\source\repos\shoehub\obj\Debug\shoehub.dll
+C:\Users\black_zeus\source\repos\shoehub\obj\Debug\shoehub.pdb
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\shoehub.dll.config
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\shoehub.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\shoehub.pdb
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\csc.exe
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\csc.exe.config
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\csc.rsp
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\csi.exe
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\csi.exe.config
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\csi.rsp
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.AppContext.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Console.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.IO.Compression.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Net.Http.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.ValueTuple.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\vbc.exe
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\vbc.exe.config
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\vbc.rsp
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\VBCSCompiler.exe
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Antlr3.Runtime.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Newtonsoft.Json.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\System.Web.Optimization.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\WebGrease.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\System.Web.Optimization.xml
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Newtonsoft.Json.xml
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Antlr3.Runtime.pdb
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\obj\Debug\shoehub.csproj.AssemblyReference.cache
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\obj\Debug\shoehub.csproj.CoreCompileInputs.cache
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\obj\Debug\shoehub.csproj.CopyComplete
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\obj\Debug\shoehub.dll
+C:\Users\abhan\OneDrive\Documents\SEM 3\ASP .net\shoehub\obj\Debug\shoehub.pdb
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\shoehub.dll.config
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\shoehub.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\shoehub.pdb
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\csc.exe
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\csc.exe.config
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\csc.rsp
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\csi.exe
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\csi.exe.config
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\csi.rsp
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.AppContext.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Console.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.IO.Compression.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Net.Http.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Net.Sockets.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.ValueTuple.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\vbc.exe
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\vbc.exe.config
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\vbc.rsp
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\VBCSCompiler.exe
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Antlr3.Runtime.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Newtonsoft.Json.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\System.Web.Optimization.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\WebGrease.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\System.Web.Optimization.xml
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Newtonsoft.Json.xml
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Antlr3.Runtime.pdb
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\obj\Debug\shoehub.csproj.AssemblyReference.cache
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\obj\Debug\shoehub.csproj.CoreCompileInputs.cache
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\obj\Debug\shoehub.csproj.Up2Date
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\obj\Debug\shoehub.dll
+C:\Users\black_zeus\Desktop\newClass\net\group-project-images\design\shoehub\shoehub\obj\Debug\shoehub.pdb
